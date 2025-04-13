@@ -36,6 +36,7 @@ mi-click-derecho-server/
 ├── install.sh            # Script de instalación automatizada en Ubuntu
 └── README.md             # Documentación y pasos de uso
 
+![image](https://github.com/user-attachments/assets/0baa8722-a147-447e-a207-79fa82119625)
 
 Descripción de Componentes
 A continuación se detalla el rol de cada componente y cualquier configuración particular:
